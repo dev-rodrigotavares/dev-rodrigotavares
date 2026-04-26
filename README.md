@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Rodrigo Tavares!
 
-### 🎓 Estudante de Engenharia Informática
+###  Estudante de Engenharia Informática
 Atualmente focado em aprender C e mais com projetos individuais.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-Aqui estão as tecnologias que venho estudando e aplicando em meus projetos:
+###  Tecnologias e Ferramentas
+Aqui estão as tecnologias estudadas e aplicadas nos meus projetos:
 
 <div align="left">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
@@ -16,5 +16,5 @@ Aqui estão as tecnologias que venho estudando e aplicando em meus projetos:
 
 ---
 
-### 🚀 O que estou fazendo agora?
+###  E agora?
 - A aprender: **Estrutura de Dados e Arquitetura de Computadores**
